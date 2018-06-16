@@ -46,15 +46,18 @@
 <p>LinkedIn Learning:</p>
 <button class="collapsible">Certificate of Industrial Automation </button>
 <div class="content">
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Learn%20Industrial%20Automation.pdf" width="800" height="625" align="center"><br>
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Learn%20Industrial%20Automation.pdf" width="800" height="625" align="center">
+    <br>
 </div>
 <button class="collapsible">Certificate of OpenCV 3 in Python </button>
 <div class="content">
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Opencv%20For%20Python%20Developers.pdf" width="800" height="625" align="center"><br>
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Opencv%20For%20Python%20Developers.pdf" width="800" height="625" align="center">
+    <br>
 </div>
 <button class="collapsible">Certificate of Raspberry Pi</button>
 <div class="content">
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Raspberry%20Pi%20Essential%20Training.pdf" width="800" height="625" align="center"><br>
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Raspberry%20Pi%20Essential%20Training.pdf" width="800" height="625" align="center">
+    <br>
 </div>
 
 <script>
