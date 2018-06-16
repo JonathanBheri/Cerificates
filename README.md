@@ -15,6 +15,7 @@ font-family: 'Raleway', sans-serif;
 <p align="center" class="w3-xxlarge" >Certificate of OpenCV 3 in Python <br></p>
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Opencv%20For%20Python%20Developers.pdf" width="800" height="625" align="center"><br>
 <br>
+<br>
 <p align="center" class="w3-xxlarge">Certificate of Raspberry Pi <br></p>
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Raspberry%20Pi%20Essential%20Training.pdf" width="800" height="625" align="center"> <br>
 </div>
