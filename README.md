@@ -12,7 +12,7 @@ font-family: 'Raleway', sans-serif;
   <p class="w3-xxxlarge">Making the Web Beautiful!</p>
   <p class="w3-jumbo">Making the Web Beautiful!</p>
 </div>
-
+<br>
 <p align="center" style="font-size:30px" style="font-family:Century Gothic"><b>Certificate of Industrial Automation </b><br></p>
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/JonathanBheri/Certificate/raw/master/CertificateOfCompletion_Learn%20Industrial%20Automation.pdf" width="800" height="625" align="center"> <br>
 
